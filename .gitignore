@@ -1,3 +1,7 @@
+# Advent of code specific (don't post input files)
+sample.txt
+input.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
